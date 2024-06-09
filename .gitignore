@@ -1,1 +1,5 @@
 node_modules
+
+crontab_-e.txt
+nohup.out
+run.sh

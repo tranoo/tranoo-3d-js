@@ -1,4 +1,4 @@
-import { createLocalStore, getRandomColor } from 'krestianstvo'
+import { createLocalStore, getRandomColor } from 'krestianstvo-tranoo'
 import { onMount, onCleanup, createResource, createEffect } from 'solid-js';
 import { loadScene } from '../js/polygon'
 import * as THREE from 'three'

@@ -7,7 +7,7 @@ render(() => (
         nodeID={"instance_name"}
         seloID={"world_name"}
         component={App}
-        reflectorHost={"https://play.tranoo.com:3001"}
+        reflectorHost={"http://play.tranoo.com:3001"}
     />
 
 ), document.getElementById('root'));
